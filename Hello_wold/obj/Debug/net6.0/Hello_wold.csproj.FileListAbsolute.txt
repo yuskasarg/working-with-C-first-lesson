@@ -1,0 +1,15 @@
+C:\Users\Юлия\Desktop\C#\Hello_wold\bin\Debug\net6.0\Hello_wold.exe
+C:\Users\Юлия\Desktop\C#\Hello_wold\bin\Debug\net6.0\Hello_wold.deps.json
+C:\Users\Юлия\Desktop\C#\Hello_wold\bin\Debug\net6.0\Hello_wold.runtimeconfig.json
+C:\Users\Юлия\Desktop\C#\Hello_wold\bin\Debug\net6.0\Hello_wold.dll
+C:\Users\Юлия\Desktop\C#\Hello_wold\bin\Debug\net6.0\Hello_wold.pdb
+C:\Users\Юлия\Desktop\C#\Hello_wold\obj\Debug\net6.0\Hello_wold.csproj.AssemblyReference.cache
+C:\Users\Юлия\Desktop\C#\Hello_wold\obj\Debug\net6.0\Hello_wold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юлия\Desktop\C#\Hello_wold\obj\Debug\net6.0\Hello_wold.AssemblyInfoInputs.cache
+C:\Users\Юлия\Desktop\C#\Hello_wold\obj\Debug\net6.0\Hello_wold.AssemblyInfo.cs
+C:\Users\Юлия\Desktop\C#\Hello_wold\obj\Debug\net6.0\Hello_wold.csproj.CoreCompileInputs.cache
+C:\Users\Юлия\Desktop\C#\Hello_wold\obj\Debug\net6.0\Hello_wold.dll
+C:\Users\Юлия\Desktop\C#\Hello_wold\obj\Debug\net6.0\refint\Hello_wold.dll
+C:\Users\Юлия\Desktop\C#\Hello_wold\obj\Debug\net6.0\Hello_wold.pdb
+C:\Users\Юлия\Desktop\C#\Hello_wold\obj\Debug\net6.0\Hello_wold.genruntimeconfig.cache
+C:\Users\Юлия\Desktop\C#\Hello_wold\obj\Debug\net6.0\ref\Hello_wold.dll
